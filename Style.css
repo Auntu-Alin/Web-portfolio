@@ -1,9 +1,14 @@
 body{
+    margin: 0cm;
     font-family: 'DM Serif Display', serif;
 }
 
 h1{
     font-size: 50px;
+}
+
+section{
+    height: 500px;
 }
 
 .name-highlight{
@@ -19,4 +24,9 @@ h1{
 
 .half-width img{
     width: 100%;
+}
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
 }
